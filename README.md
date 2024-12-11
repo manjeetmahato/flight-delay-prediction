@@ -42,7 +42,7 @@ The dataset contains the following features:
 
 ## Google Colab Notebook
 The project is implemented in a Google Colab notebook. You can access and run the notebook directly by opening the following link:
-- [Flight Delay Prediction - Colab Notebook](https://colab.research.google.com/your-notebook-link)
+- [Flight Delay Prediction - Colab Notebook](https://colab.research.google.com/drive/10DoN4Kf9f1kTJSAW_Mg2ZbMPHd3Bh2QQ#scrollTo=bc0a6df4)
 
 ## Installation
 If you want to run the code locally instead of Google Colab, follow these steps:

@@ -7,10 +7,6 @@ This project aims to predict flight delays using advanced machine learning algor
 - [Dataset](#dataset)
 - [Google Colab Notebook](#google-colab-notebook)
 - [Installation](#installation)
-- [Model](#model)
-- [Evaluation](#evaluation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 The project uses a dataset of flight records to predict delays. The dataset includes information like departure times, flight distance, airline, origin, and destination airports. Machine learning models such as Random Forest Classifier and Gradient Boosting Classifier are used to build the predictive model.

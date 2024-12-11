@@ -6,7 +6,6 @@ This project aims to predict flight delays using advanced machine learning algor
 - [Project Overview](#project-overview)
 - [Dataset](#dataset)
 - [Google Colab Notebook](#google-colab-notebook)
-- [Installation](#installation)
 
 ## Project Overview
 The project uses a dataset of flight records to predict delays. The dataset includes information like departure times, flight distance, airline, origin, and destination airports. Machine learning models such as Random Forest Classifier and Gradient Boosting Classifier are used to build the predictive model.
@@ -39,10 +38,3 @@ The dataset contains the following features:
 ## Google Colab Notebook
 The project is implemented in a Google Colab notebook. You can access and run the notebook directly by opening the following link:
 - [Flight Delay Prediction - Colab Notebook](https://colab.research.google.com/drive/10DoN4Kf9f1kTJSAW_Mg2ZbMPHd3Bh2QQ#scrollTo=bc0a6df4)
-
-## Installation
-If you want to run the code locally instead of Google Colab, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/flight-delay-prediction.git
